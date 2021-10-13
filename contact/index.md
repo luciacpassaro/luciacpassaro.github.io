@@ -1,8 +1,7 @@
 # 
 
-# Contacts
 
-
+# 
 {{< admonition note "E-mail" false>}}
 
 
