@@ -26,7 +26,7 @@ Dipartimento di Informatica
 Università di Pisa
 
 Largo B. Pontecorvo 3, 
-I-56127 Pisa (Italy)
+56127 Pisa (Italy)
 
 {{< /admonition >}}
 
