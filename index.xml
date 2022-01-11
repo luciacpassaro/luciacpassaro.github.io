@@ -2,7 +2,7 @@
     <channel>
         <title>Lucia C. Passaro Homepage</title>
         <link>http://example.org/</link>
-        <description>This is My New Hugo Site</description>
+        <description>Lucia Passaro University of Pisa</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lucia[dot]passaro[at]unipi[dot]it (Lucia C. Passaro)</managingEditor>
             <webMaster>lucia[dot]passaro[at]unipi[dot]it (Lucia C. Passaro)</webMaster>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
