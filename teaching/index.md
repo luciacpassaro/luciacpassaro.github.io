@@ -13,7 +13,7 @@ Graduate Programs in Data Science & Business Informatics and in Digital Humaniti
 
 Academic Year 2022-2023, first semester
 
-[Preliminary program](https://esami.unipi.it/docenti/editProgCorso.php?c=57047)
+[Preliminary program](https://esami.unipi.it/programma.php?c=57047&aa=2022&docente=PASSARO&insegnamento=&sd=0)
 
 [Class official webpage](http://didawiki.di.unipi.it/doku.php/mds/txa/start)
 
