@@ -1,5 +1,7 @@
 # 
 
+
+
 * Danilo Croce, **Lucia C. Passaro**, Alessandro Lenci, Roberto Basili (2021). [GQA-it: Italian Question Answering on Image Scene Graphs](http://ceur-ws.org/Vol-3033/paper42.pdf). In: Italian Conference on Computational Linguistics 2021 Proceedings of the Eighth Italian Conference on Computational Linguistics. Milan, January 26-28, 2022.
 
 * Alessandro Bondielli, **Lucia C. Passaro** (2021). [Leveraging CLIP for Image Emotion Recognition](http://ceur-ws.org/Vol-3015/paper172.pdf). In: Proceedings of the Fifth Workshop on Natural Language for Artificial Intelligence (NL4AI 2021) co-located with 20th International Conference of the Italian Association for Artificial Intelligence (AI\*IA 2021). Online, November 30, 2021

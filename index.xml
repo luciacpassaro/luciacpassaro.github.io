@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Lucia C. Passaro Homepage</title>
+        <title>Lucia C. Passaro</title>
         <link>http://example.org/</link>
         <description>Lucia Passaro University of Pisa</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lucia[dot]passaro[at]unipi[dot]it (Lucia C. Passaro)</managingEditor>
