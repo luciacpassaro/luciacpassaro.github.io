@@ -1,6 +1,18 @@
 # 
 
 
+* **Lucia C. Passaro**, Alessandro Bondielli, Pietro Dell'Oglio, Alessandro Lenci, Francesco Marcelloni:
+[In-context annotation of topic-oriented datasets of fake news: A case study on the notre-dame fire event](https://www.sciencedirect.com/science/article/pii/S0020025522008167). Information Sciences. 615: 657-677 (2022)
+
+* Sucameli, I., Bondielli, A., **Passaro, L.**, Annunziata, E., Lucherini, G., Romei, A., & Lenci, A. (2022, November). [Mate, a meta layer between natural language and database](https://ceur-ws.org/Vol-3287/paper15.pdf).  In CEUR Workshop Proceedings (Vol. 3287) Proceedings of the Sixth Workshop on Natural Language for Artificial Intelligence (NL4AI 2022) co-located with 21th International Conference of the Italian Association for Artificial Intelligence (AI\*IA 2022).
+
+* Nozza, D., **Passaro, L.**, & Polignano, M. (2022). [Preface to the sixth workshop on natural language for artificial intelligence (nl4ai)](https://ceur-ws.org/Vol-3287/xpreface.pdf). In CEUR Workshop Proceedings (Vol. 3287) Proceedings of the Sixth Workshop on Natural Language for Artificial Intelligence (NL4AI 2022) co-located with 21th International Conference of the Italian Association for Artificial Intelligence (AI\*IA 2022).
+
+* Auriemma, S., Miliani, M., Bondielli, A., **Passaro, L. C.**, & Lenci, A. (2022). [Evaluating Pre-Trained Transformers on Italian Administrative Texts](https://ceur-ws.org/Vol-3285/paper4.pdf). In CEUR Workshop Proceedings (Vol. 3285). Proceedings of 1st Workshop on AI for Public Administration co-located with 21st International Conference of the Italian Association for Artificial Intelligence (AI\*IA 2022). Udine, November 28 - December 2, 2022.
+
+* Marchiori Manerba, M., Guidotti, R., **Passaro, L.**, & Ruggieri, S. (2022). [Bias Discovery Within Human Raters: A Case Study of the Jigsaw Dataset](https://aclanthology.org/2022.nlperspectives-1.4.pdf). In Proceedings of the LREC 2022 workshop on Perspectivist Approaches to Disagreement in NLP (NLPerspectives) (pp. 26-31). European Language Resources Association (ELRA).
+
+* Elena, C., Danilo, C., **Passaro, L. C.**, & Rachele, S. (2021). [Preface to the fifth workshop on natural language for artificial intelligence (nl4ai)](https://ceur-ws.org/Vol-3015/xpreface.pdf). In CEUR WORKSHOP PROCEEDINGS (Vol. 3015). In: Proceedings of the Fifth Workshop on Natural Language for Artificial Intelligence (NL4AI 2021) co-located with 20th International Conference of the Italian Association for Artificial Intelligence (AI\*IA 2021). Online, November 30, 2021.
 
 * Danilo Croce, **Lucia C. Passaro**, Alessandro Lenci, Roberto Basili (2021). [GQA-it: Italian Question Answering on Image Scene Graphs](http://ceur-ws.org/Vol-3033/paper42.pdf). In: Italian Conference on Computational Linguistics 2021 Proceedings of the Eighth Italian Conference on Computational Linguistics. Milan, January 26-28, 2022.
 

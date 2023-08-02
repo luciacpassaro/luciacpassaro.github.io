@@ -4,6 +4,21 @@
 
 #### Academic Year 2022-2023
 
+{{< admonition abstract "Technologies for Web Marketing" false>}}
+
+TWM (537AA), 6 CFU
+
+Graduate Programs in Data Science & Business Informatics and in Digital Humanities
+
+Academic Year 2022-2023, second semester
+
+Module coordinator: Laura Pollacci
+
+[Preliminary program](https://esami.unipi.it/programma.php?c=56764&aa=2022&docente=POLLACCI&insegnamento=&sd=0)
+
+[Class official webpage](https://laurapollacci.github.io/twm.html)
+
+{{< /admonition >}}
 
 {{< admonition abstract "Text Analytics" false>}}
 

@@ -18,7 +18,7 @@ lucia [dot] passaro [at] unipi [dot] it
 {{< admonition info "Office Address" false>}}
 
 
-#### Room **356 O**
+#### Room **279**
 
 
 Dipartimento di Informatica
