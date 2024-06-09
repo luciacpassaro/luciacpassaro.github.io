@@ -19,7 +19,23 @@ Applications I'm interested include:
 
 {{< admonition abstract "Ongoing Research Projects" >}}
 
-#### *TAILOR - Foundations of Trustworthy AI – Integrating Reasoning, Learning and Optimization (EU-H2020)*
+
+#### *PRIN 2022 PNRR | New Frontiers for a Participatory Criminal Justice Towards the Thresholds of Metaverse*
+The project delves into the impact of ICT technologies on the decision-making activity of judges and on the conduct of remote processes.
+
+#### PRIN 2022 | Psychologically-tailored approaches to Debunk Fake News detected automatically by an innovative artificial intelligence approach
+The project studies the topic of Fake News recognition and personalized debunking based on psychological and behavioral characteristics of individuals.
+
+#### *FAIR | Future Artificial Intelligence Research*
+The project aims to contribute to addressing research questions, methodologies, models, technologies, and also ethical and legal rules for building Artificial Intelligence systems. Within the project, the contribution is part of Spoke 1 coordinated by the University of Pisa, specifically in WP1.3 (Human-Centered Lifelong Learning for Complex Data).
+
+#### *Giustizia AGILE | PON 2014-2020*
+The project aims to enhance the efficiency of judicial offices through technological innovation and organizational support. The actions have focused on implementing advanced IT solutions, promoting efficient organizational practices, disseminating innovations, and facilitating management. The University of Pisa group has focused on information extraction from legal documents and populating a search engine for document consultation.
+
+#### *CLMs4BPO | Conditional Language Models for Business Process Optimization (Scientific Coordinator)*
+Project funded by the Tuscany Region for the activation of Research Fellowships. The project proposed a tool for the automatic generation of text conditioned by explicit metadata. The implemented solution is based on Generative Artificial Intelligence techniques, specifically using instruction-tuned Large Language Models.
+
+#### *TAILOR | Foundations of Trustworthy AI – Integrating Reasoning, Learning and Optimization (EU-H2020)*
 TAILOR consortium is committed to demonstrate that research and innovation based on expertise, cooperation, and diversity can achieve the European vision of Human-Centered Trustworthy AI and make Europe the global role-model for responsible AI.
 {{< /admonition >}}
 

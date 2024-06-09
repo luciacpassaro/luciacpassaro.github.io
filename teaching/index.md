@@ -1,6 +1,20 @@
 # 
 
+#### Academic Year 2023-2024
 
+{{< admonition abstract "Human Language Technologies" false>}}
+
+HLT (649AA), 9 CFU
+
+Graduate Programs in Computer Science and in Digital Humanities
+
+Academic Year 2023-2024, second semester
+
+[Preliminary program](https://esami.unipi.it/esami2/programma.php?c=59049&aa=2023&docente=PASSARO&insegnamento=&sd=0&authuser=0)
+
+[Class official webpage](https://classroom.google.com/c/NjUxNDAyMzczNTA2)
+
+{{< /admonition >}}
 
 #### Academic Year 2022-2023
 
