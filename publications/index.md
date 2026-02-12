@@ -1,6 +1,6 @@
 # 
 
-## Journal Articles
+**<span style="color: color1">Journal Articles**
 
 *  Rebillard C., Hurtado J., Krutsylo A., **Passaro L.**, Lomonaco V. (2025). Continually Learn to Map Visual Concepts to Large Language Models in Resource-constrained Environments. Neurocomputing. ISSN: 0925-2312. doi: <https://doi.org/10.1016/j.neucom.2025.131013>.
 
@@ -32,7 +32,7 @@
 
 *  Castagnoli S., Lebani G. E. Lenci A., Masini F., Nissim M. and **Passaro L. C.** (2016). POS-patterns or Syntax? Comparing methods for extracting Word Combinations. In: *Gloria Corpas Pastor, Computerised and Corpus-based Approaches to Phraseology: Monolingual and Multilingual Perspectives.* p. 116-128, Ginevra:Tradulex, ISBN: 978-2-9700736-5-9.
 
-## Conference and Workshop Proceedings
+**<span style="color: color1">Conference and Workshop Proceedings**
 
 *  **Passaro L.**, Amadei D., and Bacciu D. (2026). Emotion Recognition in Multimodal Social Data. *Proceedings of the 34th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2026).* Bruges (Belgium), April 2026. To appear.
 
@@ -141,7 +141,7 @@
 
 *  Boschetti F., Cimino A., Dell’Orletta F., Lebani G. E., **Passaro L.C.**, Picchi P., Venturi G., Montemagni S. and Lenci A. (2014). Computational Analysis of Historical Documents: An Application to Italian War Bulletins in World War I and II. *In Proceedings of workshop on Language resources and technologies for processing and linking historical documents and archives-Deploying Linked Open Data in Cultural Heritage-LREC 2014*. (pp. 70-76). Reykjavík (Iceland), May 2014.
 
-## Editorial
+**<span style="color: color1">Editorial**
 
 *  Nozza D., **Passaro L.C.**, and Polignano M. (2023). Special Issue NL4AI 2022: Workshop on natural language for artificial intelligence. Intelligenza Artificiale, 17(2), 159-161. https://doi.org/10.3233/IA-230057
 
@@ -163,9 +163,9 @@
 
 *  Miliani M., **Passaro L. C.** and Lenci A. (2019). EXTraNET: a neural classifier of multiword terms. Abstract presented at the ’Computational and Corpus-based Phraseology’ (Europhras 2019). Málaga (Spain), September 2019.
 
-## Preprint
+**<span style="color: color1">Preprint**
 
-Nissim M., ... & **Passaro L.**, ... & Zugarini, A. (2025). Challenging the Abilities of Large Language Models in Italian: a Community Initiative. arXiv preprint arXiv:2512.04759.(2025). Challenging the Abilities of Large Language Models in Italian: a Community Initiative. Preprint: <https://arxiv.org/pdf/2512.04759>. *Submitted to Computational Linguistics.*
+* Nissim M., ... & **Passaro L.**, ... & Zugarini, A. (2025). Challenging the Abilities of Large Language Models in Italian: a Community Initiative. arXiv preprint arXiv:2512.04759.(2025). Challenging the Abilities of Large Language Models in Italian: a Community Initiative. Preprint: <https://arxiv.org/pdf/2512.04759>. *Submitted to Computational Linguistics.*
 
 
 
