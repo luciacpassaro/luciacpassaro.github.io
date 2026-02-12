@@ -3,11 +3,11 @@
 
 I am a researcher in **Natural Language Processing (NLP)**. I have previously served as Assistant Professor at the University of Pisa and I actively contribute to the international NLP and AI research communities.
 
-My research spans both foundational and applied NLP, with a focus on information extraction, domain adaptation, and the trustworthiness of AI systems. My current work concentrates on neural language models for fact-checking and fake news detection, multimodality, and information extraction. Over the years, I have explored a wide range of topics, including affective computing and NLP applications in specialized domains such as legal, medical, and Public Administration contexts.
+My research spans both foundational and **applied NLP**, with a focus on **Information Extraction, Domain Adaptation, and the Trustworthiness of AI systems**. 
 
-I regularly present my work at international academic and industrial conferences and participate in national and international research projects. My recent research interests increasingly address trustworthy AI and human–machine cooperation.
+I regularly present my work at international academic and industrial conferences and participate in national and international research projects. My recent research interests increasingly address **Trustworthy AI** and **Human–machine cooperation**.
 
-At the University of Pisa, I am *Expert on the subject* (*Cultore della Materia*) for the course of Computational Linguistics. I am a member of the [Computational Intelligence and Machine Learning Group](https://ciml.di.unipi.it), the [Pervasive AI Lab](http://pai.di.unipi.it/), and the [Computational Linguistics Laboratory](https://colinglab.fileli.unipi.it).
+I am a member of the [Computational Intelligence and Machine Learning Group](https://ciml.di.unipi.it), the [Pervasive AI Lab](http://pai.di.unipi.it/), and the [Computational Linguistics Laboratory](https://colinglab.fileli.unipi.it).
 
 
 ### Educational background
