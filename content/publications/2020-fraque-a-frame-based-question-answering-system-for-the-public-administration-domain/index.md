@@ -10,4 +10,9 @@ authors:
 publication:
   name: "Proceedings of the First Workshop on Language Technologies for Government and Public Admnistration (Lt4gov)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

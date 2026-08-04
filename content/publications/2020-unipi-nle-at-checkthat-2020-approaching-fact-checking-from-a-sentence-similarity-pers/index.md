@@ -11,6 +11,11 @@ authors:
 publication:
   name: "Working Notes of CLEF 2020 - Conference and Labs of the Evaluation Forum"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---
 
 ## Abstract

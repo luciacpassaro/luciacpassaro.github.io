@@ -11,6 +11,11 @@ authors:
 publication:
   name: "Proceedings of the Fifth Workshop on Natural Language for Artificial Intelligence (NL4AI 2021) Co-Located with 20th International Conference of the Italian Association for Artificial Intelligence (AI*IA 2021)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---
 
 ## Abstract

@@ -12,4 +12,9 @@ authors:
 publication:
   name: "Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian Final Workshop (EVALITA 2023)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

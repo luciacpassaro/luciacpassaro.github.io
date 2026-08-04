@@ -13,6 +13,11 @@ authors:
 publication:
   name: "Proceedings of the 9th Italian Conference on Computational Linguistics"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---
 
 ## Abstract

@@ -11,4 +11,9 @@ authors:
 publication:
   name: "Proceedings of the Discovery Science Late Breaking Contributions 2024 (DS-LB 2024) Co-Located with 27th International Conference Discovery Science 2024 (DS 2024)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

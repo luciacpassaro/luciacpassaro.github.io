@@ -13,4 +13,9 @@ hugoblox:
   ids:
     doi: "10.3233/IA-230057"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

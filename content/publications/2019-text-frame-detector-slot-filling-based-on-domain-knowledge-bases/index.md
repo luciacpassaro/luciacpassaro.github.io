@@ -10,4 +10,9 @@ authors:
 publication:
   name: "Proceedings of the Sixth Italian Conference on Computational Linguistics (CLiC-it 2019)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

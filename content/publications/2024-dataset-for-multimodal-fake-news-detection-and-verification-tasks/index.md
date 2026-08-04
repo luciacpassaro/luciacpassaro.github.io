@@ -15,4 +15,9 @@ hugoblox:
   ids:
     doi: "10.1016/j.dib.2024.110440"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

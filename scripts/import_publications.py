@@ -3,6 +3,8 @@ import re
 import shutil
 import bibtexparser
 from bibtexparser.bibdatabase import BibDatabase
+import bibtexparser
+from bibtexparser.bparser import BibTexParser
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -79,7 +81,8 @@ def main():
             item.unlink()
 
     with BIB_FILE.open(encoding="utf-8") as f:
-        db = bibtexparser.load(f)
+        parser = BibTexParser(common_strings=True)
+        db = bibtexparser.load(f, parser=parser)
 
     entries = db.entries
     print(f"Loaded {len(entries)} entries")
@@ -139,6 +142,11 @@ def main():
     
         lines.extend([
             "draft: false",
+            "share: false",
+            "profile: false",
+            "reading_time: false",
+            "show_reading_time: false",
+            "links: []",
             "---",
             "",
         ])

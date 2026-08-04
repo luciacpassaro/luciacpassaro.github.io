@@ -9,4 +9,9 @@ authors:
 publication:
   name: "Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

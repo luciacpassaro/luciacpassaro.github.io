@@ -16,4 +16,9 @@ hugoblox:
   ids:
     doi: "10.1007/s10579-025-09853-0"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

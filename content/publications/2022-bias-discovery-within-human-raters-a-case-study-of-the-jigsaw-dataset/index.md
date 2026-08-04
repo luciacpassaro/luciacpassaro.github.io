@@ -11,4 +11,9 @@ authors:
 publication:
   name: "Proceedings of the LREC 2022 Workshop on Perspectivist Approaches to Disagreement in NLP (Nlperspectives)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

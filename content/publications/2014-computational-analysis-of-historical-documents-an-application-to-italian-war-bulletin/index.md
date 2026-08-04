@@ -16,6 +16,11 @@ authors:
 publication:
   name: "Proceedings of the LREC 2014 Workshop on Language Resources and Technologies for Processing and Linking Historical Documents and Archives (LRT4HDA 2014)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---
 
 ## Abstract

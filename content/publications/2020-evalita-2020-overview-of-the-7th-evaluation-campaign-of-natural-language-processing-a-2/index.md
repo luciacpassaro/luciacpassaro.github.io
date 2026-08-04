@@ -14,4 +14,9 @@ hugoblox:
   ids:
     doi: "10.4000/books.aaccademia.6732"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

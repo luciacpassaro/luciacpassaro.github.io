@@ -14,4 +14,9 @@ hugoblox:
   ids:
     doi: "10.1007/978-3-032-15632-7_23"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

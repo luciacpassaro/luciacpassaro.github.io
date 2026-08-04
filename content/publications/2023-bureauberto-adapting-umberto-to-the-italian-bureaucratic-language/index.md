@@ -13,6 +13,11 @@ authors:
 publication:
   name: "Proceedings of the Italia Intelligenza Artificiale - Thematic Workshops Co-Located with the 3rd CINI National Lab AIIS Conference on Artificial Intelligence (Ital IA 2023)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---
 
 ## Abstract

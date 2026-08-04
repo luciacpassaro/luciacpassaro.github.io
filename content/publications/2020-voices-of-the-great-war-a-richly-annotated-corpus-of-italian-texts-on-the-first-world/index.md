@@ -19,4 +19,9 @@ authors:
 publication:
   name: "Proceedings of the 12th Language Resources and Evaluation Conference (LREC)"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---

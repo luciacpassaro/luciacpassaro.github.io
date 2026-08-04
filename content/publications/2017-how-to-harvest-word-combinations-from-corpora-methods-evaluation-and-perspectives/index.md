@@ -17,4 +17,9 @@ hugoblox:
   ids:
     doi: "10.4454/ssl.v55i2.212"
 draft: false
+share: false
+profile: false
+reading_time: false
+show_reading_time: false
+links: []
 ---
