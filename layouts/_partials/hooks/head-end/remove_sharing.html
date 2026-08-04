@@ -1,0 +1,9 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document
+      .querySelectorAll('a[href*="x.com/intent/tweet"], a[aria-label="X"]')
+      .forEach(function (el) {
+        el.remove();
+      });
+  });
+</script>

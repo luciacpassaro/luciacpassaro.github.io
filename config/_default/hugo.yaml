@@ -63,3 +63,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+goldmark:
+  renderer:
+    unsafe: true

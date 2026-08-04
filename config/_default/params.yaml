@@ -1,4 +1,4 @@
-# ══════════════════════════════════════════════════════════════════════════════
+ # ══════════════════════════════════════════════════════════════════════════════
 # HUGO BLOX CONFIGURATION
 # Schema: hugoblox.com/schema/v2
 # Tutorial: https://docs.hugoblox.com/tutorial/
@@ -13,20 +13,15 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Lucia C. Passaro"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "NLP researcher"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
-    # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
-
+    
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
   # Color and visual design system
@@ -102,25 +97,52 @@ hugoblox:
   # FOOTER
   # Site footer
   # ────────────────────────────────────────────────────────────────────────────
-  footer:
-    # Footer style variant
-    style: minimal # minimal | columns | centered
-    language_switcher: true
-    # Custom footer text (HTML supported)
-    text: ""
+  # ────────────────────────────────────────────────────────────────────────────
 
-  # ────────────────────────────────────────────────────────────────────────────
-  # COPYRIGHT
-  # Legal notices and licensing
-  # ────────────────────────────────────────────────────────────────────────────
+  footer:
+    style: minimal
+    language_switcher: false
+    text: >
+      <div class="footer-profiles">
+        <a class="footer-link" href="https://scholar.google.com/citations?user=rfXtuFgAAAAJ" target="_blank" rel="noopener">
+          <img class="footer-icon" src="/media/icons/google-scholar.png" alt="" aria-hidden="true">
+          <span>Google Scholar</span>
+        </a>
+
+        <a class="footer-link" href="https://dblp.org/pid/184/8925.html" target="_blank" rel="noopener">
+          <img class="footer-icon" src="/media/icons/dblp.png" alt="" aria-hidden="true">
+          <span>DBLP</span>
+        </a>
+
+        <a class="footer-link" href="https://orcid.org/0000-0003-4934-5344" target="_blank" rel="noopener">
+          <img class="footer-icon" src="/media/icons/orcid.png" alt="" aria-hidden="true">
+          <span>ORCID</span>
+        </a>
+
+        <a class="footer-link" href="https://aclanthology.org/people/lucia-c-passaro/" target="_blank" rel="noopener">
+          <img class="footer-icon" src="/media/icons/acl.png" alt="" aria-hidden="true">
+          <span>ACL Anthology</span>
+        </a>
+
+        <a class="footer-link" href="https://github.com/luciacpassaro" target="_blank" rel="noopener">
+          <img class="footer-icon" src="/media/icons/github.svg" alt="" aria-hidden="true">
+          <span>GitHub</span>
+        </a>
+
+        <a class="footer-link" href="https://www.linkedin.com/in/lucia-passaro-49a5b637/" target="_blank" rel="noopener">
+          <img class="footer-icon" src="/media/icons/linkedin.png" alt="" aria-hidden="true">
+          <span>LinkedIn</span>
+        </a>
+
+        <a class="footer-link" href="https://huggingface.co/luciacpassaro" target="_blank" rel="noopener">
+          <img class="footer-icon" src="/media/icons/huggingface.png" alt="" aria-hidden="true">
+          <span>Hugging Face</span>
+        </a>
+      </div> 
   copyright:
-    # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} Lucia C. Passaro"
     license:
-      type: cc # cc | custom
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      type: custom
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEO
@@ -172,10 +194,8 @@ hugoblox:
   # Site search
   # ────────────────────────────────────────────────────────────────────────────
   search:
-    enable: true
-    # Trending/suggested search terms
+    enable: false
     suggestions: []
-    # Quick action shortcuts in search modal
     quick_actions: []
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -288,3 +308,7 @@ hugoblox:
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
+    
+features:
+  custom_css:
+    - css/custom.css

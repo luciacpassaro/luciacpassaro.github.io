@@ -67,3 +67,14 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# Local Python environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Local Hugo build output
+public/
+resources/
+hugo-build.log

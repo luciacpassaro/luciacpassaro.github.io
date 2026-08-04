@@ -1,0 +1,73 @@
+{{ define "main" }}
+
+<div class="site-page publications-page">
+
+  {{ .Content }}
+
+  <div class="pub-controls">
+    <input
+      id="pub-search"
+      type="search"
+      placeholder="Search publications..."
+      aria-label="Search publications"
+    >
+
+    <select id="pub-year" aria-label="Filter by year">
+      <option value="all">All years</option>
+      {{ range (.Pages.GroupByDate "2006") }}
+        <option value="{{ .Key }}">{{ .Key }}</option>
+      {{ end }}
+    </select>
+  </div>
+
+  <div class="pub-list">
+
+    {{ range .Pages.ByDate.Reverse }}
+
+      {{ $year := .Date.Format "2006" }}
+
+      <article class="pub-item" data-year="{{ $year }}">
+        <div class="pub-year">{{ $year }}</div>
+
+        <div class="pub-body">
+          <h2 class="pub-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+
+          {{ with .Params.authors }}
+          <p class="pub-authors">{{ delimit . ", " }}</p>
+          {{ end }}
+
+          {{ with .Params.publication }}
+            {{ if reflect.IsMap . }}
+              <p class="pub-venue">{{ .name | markdownify }}</p>
+            {{ else }}
+              <p class="pub-venue">{{ . | markdownify }}</p>
+            {{ end }}
+          {{ end }}
+
+          <div class="pub-links">
+            {{ with .Params.hugoblox.ids.doi }}
+              <a href="https://doi.org/{{ . }}" target="_blank" rel="noopener">DOI</a>
+            {{ end }}
+
+            {{ with .Params.url }}
+              <a href="{{ . }}" target="_blank" rel="noopener">Link</a>
+            {{ end }}
+
+            {{ if os.FileExists (printf "%s/cite.bib" .File.Dir) }}
+              <a href="{{ .RelPermalink }}cite.bib" target="_blank" rel="noopener">BibTeX</a>
+            {{ end }}
+          </div>
+        </div>
+      </article>
+
+    {{ end }}
+
+  </div>
+
+</div>
+
+<script src="/js/publications-filter.js" defer></script>
+
+{{ end }}

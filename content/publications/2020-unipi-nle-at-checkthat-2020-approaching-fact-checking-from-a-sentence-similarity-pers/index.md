@@ -1,0 +1,18 @@
+---
+title: "UNIPI-NLE at CheckThat! 2020: Approaching Fact Checking from a Sentence Similarity Perspective through the Lens of Transformers"
+date: 2020-01-01
+publication_types:
+  - "conference-paper"
+authors:
+  - "Passaro, Lucia"
+  - "Bondielli, Alessandro"
+  - "Lenci, Alessandro"
+  - "Marcelloni, Francesco"
+publication:
+  name: "Working Notes of CLEF 2020 - Conference and Labs of the Evaluation Forum"
+draft: false
+---
+
+## Abstract
+
+This paper describes a Fact Checking system based on a combination of Information Extraction and Deep Learning strategies to approach the task named Verified Claim Retrieval" (Task 2) for the CheckThat! 2020 evaluation campaign. The system is based on two main assumptions: a claim that verifies a tweet is expected i) to mention the same entities and keyphrases, and ii) to have a similar meaning. The former assumption has been addressed by exploiting an Information Extraction module capable of determining the pairs in which the tweet and the claim share at least a named entity or a relevant keyword. To address the latter, we exploited Deep Learning to refine the computation of the text similarity between a tweet and a claim, and to actually classify the pairs as correct matches or not. In particular, the system has been built starting from a pre-trained Sentence-BERT model, on which two cascade fine-tuning steps have been applied in order to i) assign a higher cosine similarity to gold pairs, and ii) classify a pair as correct or not. The final ranking produced by the system is the probability of the pair labelled as correct. Overall, the system reached a 0.91 MAP@5 on the test set.

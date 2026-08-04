@@ -1,0 +1,16 @@
+---
+title: "Leveraging CLIP for Image Emotion Recognition"
+date: 2021-01-01
+publication_types:
+  - "conference-paper"
+authors:
+  - "Bondielli, Alessandro"
+  - "Passaro, Lucia C."
+publication:
+  name: "Proceedings of the Fifth Workshop on Natural Language for Artificial Intelligence (NL4AI 2021) Co-Located with 20th International Conference of the Italian Association for Artificial Intelligence (AI*IA 2021)"
+draft: false
+---
+
+## Abstract
+
+Multi-modal neural models that are able to encode and process both visual and textual data are becoming more and more common in the last few years. Such models enable new ways to learn the interaction between vision and text, and thus can be successfully applied to tasks of varying complexity in the domain of image and text classification. However, such models are traditionally oriented to learn grounded properties of images and of the objects they depict and less suited to solve tasks involving subjective characteristics, such as the emotions they can convey in viewers. In this paper, we provide some insights in the performances of the recently released OpenAI CLIP model for an emotion classification task. We evaluate the model both under zero-shot settings and via fine tuning on an image-emotion dataset. We compare the performances of CLIP both in a zero-shot and fine-tuning setting on (i) a standard benchmark dataset for object recognition (ii) an image-emotion dataset. Moreover, we evaluate to which extent a CLIP model adapted to emotions is able to retain general knowledge and generalization capabilities.
